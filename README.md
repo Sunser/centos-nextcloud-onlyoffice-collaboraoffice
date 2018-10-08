@@ -2,6 +2,10 @@
 
 本脚本基于 Centos 7 + nginx + mysql + nextcloud + php-fpm + redis + onlyoffice for collaboraoffice 实现一键安装脚本
 
+注意: 请使用全新干净的 centos 7 系统来使用脚本，脚本可能会造成对已有环境有所冲突，切记切记
+
+使用方法： chmod +x nextcloud.sh && bash nextcloud.sh
+
 所有全通过 mirrors.0diis.com 反向代理到各软件官方仓库源
 
 其中 office 软件包 支持 yum 安装 以及 docker 安装 可凭喜好选择
