@@ -10,7 +10,7 @@
 
 其中 office 软件包 支持 yum 安装 以及 docker 安装 可凭喜好选择
 
-docker 使用阿里云加速器 pull 镜像速度很快无需担心 选择 docker 的运行方式 pull 过慢的问题
+docker 使用阿里云加速器 pull 镜像速度很快 ，无需担心选择 docker 的运行方式 pull 过慢的问题
 
 nextcloud 常规自检有关于邮箱的配置，在一件脚本里面也实现了改功能 （目前仅支持使用QQ 邮箱）
 
